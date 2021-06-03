@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e1479bef9dc040a16cb208115fd69, type: 3}
+  m_Name: DATA
+  m_EditorClassIdentifier: 
+  characters:
+  - avatar: {fileID: 21300018, guid: 861670462401ad44aa1cbb026da56c60, type: 3}
+    charater: {fileID: 7896879507418422366, guid: 2de4978d91313074ab14ea512f771ae4,
+      type: 3}
+    trigger: 1
+    cost: 0
+  - avatar: {fileID: 21300014, guid: 861670462401ad44aa1cbb026da56c60, type: 3}
+    charater: {fileID: -4157706297658988567, guid: 2de4978d91313074ab14ea512f771ae4,
+      type: 3}
+    trigger: 1
+    cost: 0
+  - avatar: {fileID: 21300010, guid: 861670462401ad44aa1cbb026da56c60, type: 3}
+    charater: {fileID: -1554456083928411902, guid: 2de4978d91313074ab14ea512f771ae4,
+      type: 3}
+    trigger: 0
+    cost: 0
+  - avatar: {fileID: 21300038, guid: 861670462401ad44aa1cbb026da56c60, type: 3}
+    charater: {fileID: -8409804523254666561, guid: 2de4978d91313074ab14ea512f771ae4,
+      type: 3}
+    trigger: 0
+    cost: 0

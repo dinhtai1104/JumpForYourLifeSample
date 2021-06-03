@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bonus1
+  - ScorePlatform
+  - ground
+  - midplatform
+  - WallRight
+  - StandWall
+  - WallLeft
+  - FxTemporaire
+  - BotDie
+  - Wall
+  - Platform
+  - Perfect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Platform
+  - CullingMask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 146008981
+    locked: 0
+  - name: Obtacles
+    uniqueID: 501229603
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
